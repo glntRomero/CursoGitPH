@@ -1,0 +1,23 @@
+{
+  "name": "cursogitph",
+  "version": "1.0.0",
+  "description": "Para uso de GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glntRomero/CursoGitPH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glntRomero/CursoGitPH/issues"
+  },
+  "homepage": "https://github.com/glntRomero/CursoGitPH#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
